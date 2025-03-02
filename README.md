@@ -1,12 +1,11 @@
-# **Primemax**  
-## A Netflix Clone  
+# **Primemax**    
 
 **Primemax** is a Netflix-inspired streaming platform that allows users to browse, register, and log in to watch content. Built with **React, Redux, Tailwind CSS, Node.js, Express, and MongoDB**, this project delivers a seamless movie-watching experience with user authentication.  
 
 ---
 
 ## **Live Demo**  
-🔗 **Check out the live version**: [Primemax on Render](https://primemax-1.onrender.com)  
+🔗 **Check out the live version**: [Primemax](https://primemax-1.onrender.com)  
 
 ---
 
